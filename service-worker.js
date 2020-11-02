@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tangswap/precache-manifest.69eaf24b989a6e8cf021fd0a5d568557.js"
+  "/tangswap/precache-manifest.4140487bf3e0cb1c9c5e2ab3973b6623.js"
 );
 
 self.addEventListener('message', (event) => {
